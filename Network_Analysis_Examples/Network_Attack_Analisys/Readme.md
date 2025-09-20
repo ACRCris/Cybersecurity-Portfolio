@@ -2,13 +2,13 @@
 
 Module 3 activity 2 of the course **Connect and Protect: Networks and Network Security** of the Google Cybersecurity Certificate.
 
-This activity consists of analyzing a Wireshark TCP/HTTP log file to to identify and explain the cause of a service interruption that affected a website and show the negative impact of the incident on the website.
+I analyzed a Wireshark TCP/HTTP log file to identify and explain the cause of a service interruption that affected a website and to show the negative impact of the incident on the website.
 
-## Objectives
+## Objectives accomplished
 
-- Identify the type of attack that may have caused the service interruption.
--  Explain how the attack is causing the website to malfunction
-- Describe the actions taken by the IT team to prevent further attacks
+- Identified the type of attack that may have caused the service interruption.
+- Explained how the attack caused the website to malfunction.
+- Described the actions taken by the IT team to prevent further attacks.
 
 ## Folder Structure and Status
 

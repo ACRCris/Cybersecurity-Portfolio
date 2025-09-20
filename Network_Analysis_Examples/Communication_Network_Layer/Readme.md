@@ -2,13 +2,13 @@
 
 Module 3 activity 1 of the course **Connect and Protect: Networks and Network Security** of the Google Cybersecurity Certificate.
 
-This activity involves analyzing a file that contains DNS traffic from the application layer and ICMP traffic from the internet layer in the TCP/IP model of a fictitious website "yummyrecipesforme.com", with the aim of identifying a possible denial of service (DoS) attack and determining the method used to carry out the attack.
+I analyzed a file that contained DNS traffic from the application layer and ICMP traffic from the internet layer in the TCP/IP model of a fictitious website "yummyrecipesforme.com", with the aim of identifying a possible denial of service (DoS) attack and determining the method used to carry out the attack.
 
-## Objectives
+## Objectives accomplished
 
-- Analyze network traffic to identify unusual patterns.
-- Determine which network protocol was affected during the incident.
-- Describe the actions taken by the IT team to prevent further attacks
+- Analyzed network traffic to identify unusual patterns.
+- Determined which network protocol was affected during the incident.
+- Described the actions taken by the IT team to prevent further attacks.
 
 
 ## Folder Structure and Status

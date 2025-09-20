@@ -2,13 +2,13 @@
 
 Module 4 activity 1 of the course **Connect and Protect: Networks and Network Security** of the Google Cybersecurity Certificate.
 
-This activity consists of analyzing a tcpdump packet capture of traffic to the fictitious website yummyrecipesforme.com, which was compromised via a brute-force attack and malicious JavaScript injection, to identify the protocols used in the communication between the site and users.
+I analyzed a tcpdump packet capture of traffic to the fictitious website yummyrecipesforme.com, which was compromised via a brute-force attack and malicious JavaScript injection, to identify the protocols used in the communication between the site and users.
 
-## Objectives
+## Objectives accomplished
 
-- Identify the type of attack that may have caused the incident
-- Document the incident 
-- Provide recommendations to prevent further brute force attacks.
+- Identified the type of attack that may have caused the incident.
+- Documented the incident.
+- Provided recommendations to prevent further brute‑force attacks.
 
 ## Folder Structure and Status
 
