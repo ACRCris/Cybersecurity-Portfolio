@@ -1,6 +1,6 @@
 # Activity Summary 
 
-Google Cloud lab: Install and Manage Software with APT on a Debian‑based Linux VM.
+Module 2, Lab 1 from Tools of the Trade: Linux and SQL (Google Cybersecurity Certificate): hands-on Google Cloud lab focused on installing and managing software with APT on a Debian-based VM.
 
 ![alt text](ActivityResult.png)
 

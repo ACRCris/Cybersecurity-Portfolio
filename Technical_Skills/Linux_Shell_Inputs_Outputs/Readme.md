@@ -1,6 +1,6 @@
 # Activity Summary 
 
-Google Cloud lab: Examine Shell Inputs and Outputs on a Linux Bash environment.
+Module 2, Lab 2 from Tools of the Trade: Linux and SQL (Google Cybersecurity Certificate): Google Cloud lab exploring shell inputs and outputs in a Linux Bash environment.
 
 ![alt text](ActivityResult.png)
 
