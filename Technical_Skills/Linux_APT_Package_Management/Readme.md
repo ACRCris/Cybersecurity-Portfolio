@@ -2,7 +2,7 @@
 
 Google Cloud lab: Install and Manage Software with APT on a Debian‑based Linux VM.
 
-![alt text](image.png)
+![alt text](ActivityResult.png)
 
 In this Google Cloud activity, I used the APT package manager to install, remove, and verify security‑related tools (Suricata and tcpdump) in a Bash shell. The work demonstrates essential Linux package‑management skills for security analysts while safely operating in a Google Cloud‑hosted environment.
 
