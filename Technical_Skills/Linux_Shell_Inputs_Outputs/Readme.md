@@ -2,7 +2,7 @@
 
 Google Cloud lab: Examine Shell Inputs and Outputs on a Linux Bash environment.
 
-![alt text](image.png)
+![alt text](ActivityResult.png)
 
 In this Google Cloud activity, I practiced sending commands to a Bash shell and interpreting the resulting output and messages. The lab used simple commands (`echo`, `expr`, `clear`) to illustrate how inputs are processed and displayed, reinforcing core Linux communication skills for security analysts.
 
