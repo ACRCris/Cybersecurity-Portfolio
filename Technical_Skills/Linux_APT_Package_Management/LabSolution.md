@@ -117,3 +117,15 @@ suricata/oldstable,now 1:4.1.2-2+deb10u1 amd64 [installed]
 tcpdump/oldstable,now 4.9.3-1~deb10u2 amd64 [installed]
 ```
 
+
+## Validation
+
+- `apt` command displays usage details, confirming the package manager is present.
+- Running `suricata` after installation shows the version banner; after removal it returns “No such file or directory.”
+- `apt list --installed` (optionally filtered with `grep`) confirms `suricata` and `tcpdump` are installed at the end of the lab.
+
+## Notes
+
+- `sudo` is required for `apt install` and `apt remove` operations.
+- Re-running `apt install <package>` is idempotent; it reinstalls or confirms the package is already present.
+- Sample outputs in this solution come from the Google Cloud Debian-based VM; versions may vary slightly in other environments.
