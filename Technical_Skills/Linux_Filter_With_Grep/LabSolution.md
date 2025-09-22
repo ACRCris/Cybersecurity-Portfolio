@@ -21,38 +21,12 @@ Output:
 2022-09-29 16:56:22 error   Unauthorized access
 ```
 
-<div class="mc-wrapper">
-  <div class="mc-card">
-    <div class="mc-rail" aria-hidden="true">
-      <span class="mc-rail__dot"></span>
-    </div>
-    <div class="mc-content">
-      <p class="mc-question">How many error lines are there in the <code>server_logs.txt</code> file?</p>
-      <form class="mc-options">
-        <label class="mc-option">
-          <input type="radio" name="task1-errors" value="Six" checked />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Six</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task1-errors" value="Three" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Three</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task1-errors" value="Eight" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Eight</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task1-errors" value="Two" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Two</span>
-        </label>
-      </form>
-    </div>
-  </div>
-</div>
+> [!NOTE] Question
+> How many error lines are there in the `server_logs.txt` file?
+> - [x] Six
+> - [ ] Three
+> - [ ] Eight
+> - [ ] Two
 
 
 
@@ -71,37 +45,12 @@ Q1_added_users.txt
 Q1_deleted_users.txt
 ```
 
-<div class="mc-wrapper">
-  <div class="mc-card">
-    <div class="mc-rail" aria-hidden="true">
-      <span class="mc-rail__dot"></span>
-    </div>
-    <div class="mc-content">
-      <p class="mc-question">How many files in the <code>/home/analyst/reports/users</code> subdirectory contain “Q1” in their names?</p>
-      <form class="mc-options">
-        <label class="mc-option">
-          <input type="radio" name="task2-q1" value="Three" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Three</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task2-q1" value="One" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">One</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task2-q1" value="Five" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Five</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task2-q1" value="Two" checked />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Two</span>
-        </label>
-      </form>
-  </div>
-</div>
+> [!NOTE] Question
+> How many files in the `/home/analyst/reports/users` subdirectory contain “Q1” in their names?
+> - [ ] Three
+> - [ ] One
+> - [ ] Five
+> - [x] Two
 
 ### Task 2 - Filter filenames by keyword access in `/home/analyst/reports/users`
 
@@ -120,38 +69,12 @@ Q4_access.txt
 
 Three files in the directory contain the word `access` in their names.
 
-<div class="mc-wrapper">
-  <div class="mc-card">
-    <div class="mc-rail" aria-hidden="true">
-      <span class="mc-rail__dot"></span>
-    </div>
-    <div class="mc-content">
-      <p class="mc-question">How many files in the <code>/home/analyst/reports/users</code> directory contain “access” in their names?</p>
-      <form class="mc-options">
-        <label class="mc-option">
-          <input type="radio" name="task2-access" value="Four" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Four</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task2-access" value="None" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">None</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task2-access" value="Five" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Five</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task2-access" value="Three" checked />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Three</span>
-        </label>
-      </form>
-    </div>
-  </div>
-</div>
+> [!NOTE] Question
+> How many files in the `/home/analyst/reports/users` directory contain “access” in their names?
+> - [ ] Four
+> - [ ] None
+> - [ ] Five
+> - [x] Three
 
 ### Task 3 - Inspect quarterly user records with `grep`
 
@@ -167,27 +90,10 @@ Result:
 
 The username `jhill` appears in the quarter 2 deletion report, confirming removal.
 
-<div class="mc-wrapper">
-  <div class="mc-card">
-    <div class="mc-rail" aria-hidden="true">
-      <span class="mc-rail__dot"></span>
-    </div>
-    <div class="mc-content">
-      <p class="mc-question">Did you find the username <code>jhill</code> in the <code>Q2_deleted_users.txt</code> file?</p>
-      <form class="mc-options">
-        <label class="mc-option">
-          <input type="radio" name="task3-jhill" value="Yes" checked />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Yes</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task3-jhill" value="No" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">No</span>
-        </label>
-      </form>
-  </div>
-</div>
+> [!NOTE] Question
+> Did you find the username `jhill` in the `Q2_deleted_users.txt` file?
+> - [x] Yes
+> - [ ] No
 
 ### Task 3 - Count new hires in Human Resources from `Q4_added_users.txt`
 
@@ -204,37 +110,12 @@ Output confirms the new hires for Human Resources in quarter 4:
 
 Two users were added to the Human Resources department during Q4.
 
-<div class="mc-wrapper">
-  <div class="mc-card">
-    <div class="mc-rail" aria-hidden="true">
-      <span class="mc-rail__dot"></span>
-    </div>
-    <div class="mc-content">
-      <p class="mc-question">How many users were added to the Human Resources department in quarter 4?</p>
-      <form class="mc-options">
-        <label class="mc-option">
-          <input type="radio" name="task3-hr" value="Two" checked />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Two</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task3-hr" value="One" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">One</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task3-hr" value="Three" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Three</span>
-        </label>
-        <label class="mc-option">
-          <input type="radio" name="task3-hr" value="Five" />
-          <span class="mc-option__radio"></span>
-          <span class="mc-option__text">Five</span>
-        </label>
-      </form>
-  </div>
-</div>
+> [!NOTE] Question
+> How many users were added to the Human Resources department in quarter 4?
+> - [x] Two
+> - [ ] One
+> - [ ] Three
+> - [ ] Five
 
 ## Validation
 
