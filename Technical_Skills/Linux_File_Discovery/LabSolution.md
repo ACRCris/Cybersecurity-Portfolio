@@ -1,9 +1,6 @@
 # Lab Solution: Find Files with Linux Commands
 
-<style>
-.mc-card{background:#0f172a;border:1px solid #334155;border-radius:8px;padding:12px;margin:12px 0}
-.mc-question code{background:#111827;border-radius:4px;padding:2px 6px}
-</style>
+<!-- GitHub strips <style> tags. Using callouts/details instead for highlighting. -->
 
 This Google Cloud lab practices navigating the Linux filesystem and locating files using core shell commands. The steps below capture the commands executed and the expected results.
 
@@ -57,7 +54,7 @@ This command prints:
     </div>
   </div>
 </div>
-----
+
 ```
 ls
 ```
