@@ -1,6 +1,6 @@
 ﻿# Activity Summary 
 
-Module 2, Lab 4 from Tools of the Trade: Linux and SQL (Google Cybersecurity Certificate): Google Cloud lab focused on filtering log data with `grep` and pipes.
+Module 3, Lab 2 from Tools of the Trade: Linux and SQL (Google Cybersecurity Certificate): Google Cloud lab focused on filtering log data with `grep` and pipes.
 
 ![alt text](ActivityResult.png)
 
