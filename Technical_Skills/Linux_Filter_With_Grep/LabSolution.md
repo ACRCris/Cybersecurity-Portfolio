@@ -1,4 +1,9 @@
 ﻿# Lab Solution: Filter with grep
+
+<style>
+.mc-card{background:#0f172a;border:1px solid #334155;border-radius:8px;padding:12px;margin:12px 0}
+.mc-question code{background:#111827;border-radius:4px;padding:2px 6px}
+</style>
 ## Commands executed
 
 ### Task 1 - Filter error entries from `server_logs.txt`
@@ -244,4 +249,3 @@ Two users were added to the Human Resources department during Q4.
 
 - Quoting multi-word search strings such as `"Human Resources"` prevents `grep` from treating the words separately.
 - Piping `ls` into `grep` is a quick triage technique; 
-
