@@ -17,5 +17,4 @@ In this activity I organized the `/home/analyst` workspace using core shell comm
 ## Folder Structure and Status
 
 - LabSolution.md: Step‑by‑step commands, expected outputs, and quick checks.
-- MaterialDeApoyo/ManageFilesWithLinuxCommands.md: Course walkthrough used as reference (read‑only).
-- MaterialDeApoyo/image.png, image-1.png: Screenshots from the lab (read‑only).
+
