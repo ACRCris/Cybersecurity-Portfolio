@@ -15,4 +15,3 @@ In this activity, I used INNER, LEFT, and RIGHT joins to combine `machines`, `em
 
 ## Folder Structure and Status
 - `LabSolution.md`: Step-by-step joins with queries, questions, and validation.
-- `activity_sql_join.md`: Source activity instructions (original content moved here for reference).

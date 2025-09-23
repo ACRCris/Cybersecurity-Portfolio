@@ -14,4 +14,6 @@ I classified network‑connected assets for a small home‑office business envir
 
 ## Folder Structure and Status
 
-- Home asset inventory.xlsx: Working spreadsheet with added devices, characteristics, notes, and sensitivity levels (plus retained blank template copy if duplicated).
+- HomeAssetInventory.xlsx: Working spreadsheet with added devices, characteristics, notes, and sensitivity levels (plus retained blank template copy if duplicated).
+
+- HomeAssetInventory.md: Markdown export of the completed asset inventory for easy viewing and version control.
