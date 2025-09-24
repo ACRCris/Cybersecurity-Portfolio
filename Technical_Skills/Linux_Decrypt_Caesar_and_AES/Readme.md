@@ -1,6 +1,6 @@
 # Activity Summary 
 
-Module 1 lab 1 of the course **Assets, Threats, and Vulnerabilities** of the Google Cybersecurity Certificate
+Module 2 lab 1 of the course **Assets, Threats, and Vulnerabilities** of the Google Cybersecurity Certificate
 
 ![alt text](ActivityResult.png)
 
