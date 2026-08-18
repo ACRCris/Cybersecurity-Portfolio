@@ -10,7 +10,7 @@ This repository gathers activities, reports, and practices developed during my c
 - `Threat_Analysis_Examples/`: **STRIDE threat modeling** of a payment platform, **APT and social-engineering** analysis of real cases (SolarWinds, WannaCry, Twitter 2020), **malware analysis with YARA and SSDEEP**, and phishing analysis.
 - `Offensive_Security_Examples/`: **CTF pentesting HackLabs** (OSINT, Nmap, Hydra, Wireshark, NTLM cracking) and a reverse-shell proof of concept — all in controlled labs, framed for defensive understanding.
 - `Network_Analysis_Examples/`: network hardening, DNS/ICMP traffic analysis and incident reviews with Wireshark, plus a **Packet Tracer services design** (DHCP/DNS/HTTP) and an **OSI/TCP-IP packet-analysis lab**.
-- `Security_Audit_Examples/`: internal audits aligned to the NIST CSF with compliance checklists and stakeholder memorandums, plus a full **ISO/IEC 27001:2022 ISMS (SGSI)** built for a regulated company.
+- `Security_Audit_Examples/`: internal audits aligned to the NIST CSF with compliance checklists and stakeholder memorandums, a full **ISO/IEC 27001:2022 ISMS (SGSI)**, and **cloud GRC work** — NIST SP 800-53 control mapping and a risk-management policy gap review (Google Cloud).
 - `System_Operative_Examples/`: investigation of a brute-force compromise and hardening recommendations based on DNS and HTTP logs.
 - `Asset_Management_Examples/`: asset inventory with sensitivity classification, and an access-control audit that detected an unregistered administrator account.
 - `Technical_Skills/`: hands-on labs reinforcing Linux commands (permissions, file search, input/output) and SQL (filters and joins).
@@ -23,6 +23,8 @@ This repository gathers activities, reports, and practices developed during my c
 - `Security_Audit_Examples/SGSI_ISO27001_Servientrega/`: ISO 27001:2022 ISMS documentation — context, asset inventory with CIA valuation, 20-scenario risk matrix, policy, and Statement of Applicability.
 - `Threat_Analysis_Examples/Malware_Analysis_YARA_SSDEEP/`: real-sample malware detection combining YARA rules and SSDEEP fuzzy hashing in Python.
 - `Security_Audit_Examples/Conduct_Security_AuditP1/`: internal audit of Botium Toys with risk assessment and a GDPR / PCI DSS / ISO 27001 compliance checklist.
+- `Security_Audit_Examples/Compliance_Report_Review_NIST_800-53/`: cloud compliance report mapped control by control to NIST SP 800-53 (AC-6, CA-3, SC-7, IA-2) with severity and remediation.
+- `Security_Audit_Examples/Risk_Management_Policy_Review/`: risk-management policy gap analysis against NIST SP 800-53 — nine gaps with proposed changes and justification.
 - `Asset_Management_Examples/Access_Control_Audit/`: access-control audit detecting an unregistered admin account operating from a non-corporate IP.
 
 ## How to Use This Repository
