@@ -13,7 +13,7 @@ This repository gathers activities, reports, and practices developed during my c
 - `Security_Audit_Examples/`: internal audits aligned to the NIST CSF with compliance checklists and stakeholder memorandums, a full **ISO/IEC 27001:2022 ISMS (SGSI)**, and **cloud GRC work** — NIST SP 800-53 control mapping and a risk-management policy gap review (Google Cloud).
 - `System_Operative_Examples/`: investigation of a brute-force compromise and hardening recommendations based on DNS and HTTP logs.
 - `Asset_Management_Examples/`: asset inventory with sensitivity classification, and an access-control audit that detected an unregistered administrator account.
-- `Technical_Skills/`: hands-on labs reinforcing Linux commands (permissions, file search, input/output) and SQL (filters and joins).
+- `Technical_Skills/`: hands-on labs reinforcing Linux commands (permissions, file search, input/output), SQL (filters and joins), and a **Google Cloud VPC/subnet creation lab** via Cloud Shell (`gcloud`).
 
 ## Featured Deliverables
 
